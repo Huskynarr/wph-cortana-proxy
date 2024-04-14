@@ -1,0 +1,13 @@
+{
+  "serverPort": 8080,
+  "apiKeys": {
+    "chatGPT": "YOUR_CHATGPT_API_KEY",
+    "alexa": "YOUR_ALEXA_API_KEY",
+    "homeKit": "YOUR_HOMEKIT_API_KEY"
+  },
+  "routes": {
+    "chatGPT": "/api/chatgpt",
+    "alexa": "/api/alexa",
+    "homeKit": "/api/homekit"
+  }
+}
