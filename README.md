@@ -1,7 +1,7 @@
 # WPH Cortana Proxy
 
 ## Description
-The WPH Cortana Proxy is a middleware tool designed to forward requests to services like Microsoft's Cortana, ChatGPT, Alexa, and HomeKit, providing customization and extension capabilities. This project is ideal for developers looking to integrate or enhance the functionality of these voice assistants within their applications.
+The WPH Cortana Proxy is a middleware tool for forwarding Microsoft's Cortana requests to services such as ChatGPT, Alexa, HomeKit and offers customization and extension options. This project is ideal for developers who want to integrate or extend the functionality of these voice assistants into their applications.
 
 ## Features
 - Forwarding voice and text requests to various services including Cortana, ChatGPT, Alexa, and HomeKit.
